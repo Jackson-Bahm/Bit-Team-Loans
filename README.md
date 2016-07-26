@@ -1,6 +1,6 @@
 # Request Company Balance
 
-This program allows you to see the company balance within the Bitfinex exchange at any time. Note that this does not nessacarily indicate the Bit Team International's funds but only indicated the amount on this particular exchange. 
+This program will automatically create and file a loan contract for investments into Bit Team International.
 
 # Usage
 0. Requirements
