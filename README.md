@@ -1,4 +1,4 @@
-# Request Company Balance
+# Company Contract Filing System
 
 This program will automatically create and file a loan contract for investments into Bit Team International.
 
