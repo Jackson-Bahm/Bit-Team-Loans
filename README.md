@@ -11,4 +11,6 @@ This program will automatically create and file a loan contract for investments 
 
 1. Download or clone the main project and extract files.
 
-2. Configure the inputs in the program to the form of your choice.
+2. Open fpdf181.zip  
+
+3. Configure the inputs in the program to the form of your choice.
